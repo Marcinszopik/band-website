@@ -1,0 +1,30 @@
+body {
+  font-family: Georgia;
+}
+
+.image_non_cd  {
+  float: right;
+  width: 320px;
+  padding: 10px;
+}
+
+.image_cd  {
+  float:left;
+  width: 160px;
+  padding: 10px;
+}
+
+.column {
+  width:33.33%;
+  float: left;
+  border-right: 10px;
+}
+
+.upcoming_shows {
+  width: 160px;
+  background: blue;
+  color: white;
+  padding: 10px;
+  border: black;
+  border-width: 5px;
+}
